@@ -1,0 +1,52 @@
+# Site
+name: "Mobile App Development, UI/UX and Digital Marketing Blog"
+title: "Mobile App Development, UI/UX and Digital Marketing Blog"
+description: "Mobile App Development and UI/UX blog,we also share Digital Marketing knowledge that help Business."
+meta_description: "Mobile App Development and UI/UX blog,we also share Digital Marketing knowledge that help Business."
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'mr.developerxd@gmail.com'
+google_analytics: ''
+disqus: 'https-www-developerxd-com'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  developerxd:
+    name: DeveloperXD
+    display_name: DeveloperXD
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: mr.developerxd@gmail.com
+    web: https://www.developerxd.com
+    twitter: 
+    description: "Mobile App Development and UI/UX blog,we also share Digital Marketing knowledge that help Business."
+  sultan:
+    name: Sultan
+    display_name: Sultan UL Arefin
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: programmer.arefin@gmail.com
+    web: https://www.developerxd.com
+    twitter: https://twitter.com/
+    description: "My name is sultan ul arefin , i am a programmer and dream big."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
