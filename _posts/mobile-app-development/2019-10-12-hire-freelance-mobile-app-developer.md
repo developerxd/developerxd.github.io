@@ -3,7 +3,7 @@ layout: post
 title:  "4 Steps To Hire A Freelance Mobile App Developer"
 author: developerxd
 categories: [ mobile-app-development ]
-image: /assets/images/posts/hire-a-freelance-mobile-app-developer/4-Steps-To-Hire-A-Freelance-Mobile-App-Developer.png
+image: assets/images/posts/hire-a-freelance-mobile-app-developer/4-Steps-To-Hire-A-Freelance-Mobile-App-Developer.png
 featured: true
 ---
 
