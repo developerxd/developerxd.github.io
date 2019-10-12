@@ -3,7 +3,7 @@ layout: post
 title:  "How to Build an App : Step By Step Process That The Best App Development Companies Do."
 author: developerxd
 categories: [ mobile-app-development ]
-image: /assets/images/posts/how-to-build-an-mobile-app-step-by-step/How-to-Build-a-Mobile-App.jpg
+image: assets/images/posts/how-to-build-an-mobile-app-step-by-step/How-to-Build-a-Mobile-App.jpg
 featured: true
 ---
 
@@ -18,7 +18,7 @@ This article  will help you if you develop a smart and at once intimidating app 
 
 
 1. **Deep market analysis and research:** 
-    
+   
     Any new venture concerning massive investments should start with a deep   analysis of the market and show that its idea will be fruitful in  sales.  How many users can an app achieve success depends on how many.  To  achieve this, you have to investigate the market in order to  identify  the characteristics of your target audience (such as  demographics,  people, gender), competitiveness, and app stores  trending.
 2. **Intricate planning:** 
     The second step involves creating a detailed  app plan that includes all  the necessary features, brand elements for  CTAs and additional  features. The planning process must begin by  determining the objectives  of the app and necessary user actions. The  app consultants then map  how everything in the app looks and translates  the objectives into  different tasks.
