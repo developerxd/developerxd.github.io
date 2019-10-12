@@ -3,7 +3,7 @@ layout: post
 title:  "Boost your sele and increase conversion rate by mobile application"
 author: developerxd
 categories: [ mobile-app-development ]
-image: /assets/images/posts/increase-sell-conversion-by-mobile-application/Boost-your-sele-and-increase-conversion-rate-by-mobile-application.png
+image: assets/images/posts/increase-sell-conversion-by-mobile-application/Boost-your-sele-and-increase-conversion-rate-by-mobile-application.png
 ---
 
 Mobile apps that make a difference in the market are great for  converting consumers. Not every app will have excellent conversions,  however, until their UI and UX are well optimized to tempt  call-to-actions users. Just nice characteristics and attractive look for  a mobile app is not enough. You need to ensure that it is consistent  with the highest guidelines for conversion optimization. To do this, you  certainly need help from one of the most experienced mobile app  development firms with professional designers to take care of UI and UX  aspects.
