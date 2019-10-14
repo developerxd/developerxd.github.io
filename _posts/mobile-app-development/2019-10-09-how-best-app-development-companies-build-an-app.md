@@ -4,7 +4,6 @@ title:  "How to Build an App : Step By Step Process That The Best App Developmen
 author: developerxd
 categories: [ mobile-app-development ]
 image: assets/images/posts/how-to-build-an-mobile-app-step-by-step/How-to-Build-a-Mobile-App.jpg
-featured: true
 ---
 
 The first question that runs in the minds of  business owners who still don't own an app is "how to get an idea  developed to an app?" In the midst of all developments and technological  disruptions, mobile app solutions are what came and remained. The world  has seen an unprecedented increase in the use of mobile apps over the  past few years and this has strengthened the development of mobile apps  for businesses, individuals and start-ups.
