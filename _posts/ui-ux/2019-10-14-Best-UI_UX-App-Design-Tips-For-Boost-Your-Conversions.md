@@ -23,8 +23,7 @@ The two important things that are extremely important to the design of an applic
 
 **USE CLOORS AND LOGOS ATTRACTIVE:** A brand is entirely focused on your relationship with a specific service or product. The choice of a good color is very subtle and efficient in defining this relationship.
 
-**
-****MAINTAIN CONSISTENCE IN ELEMENTS:** Consistance in defining and repeating the app's elements is extremely important. If one of the buttons says that "subscribe" is in a certain color say yellow, then all buttons of that color should be yellow. This is something that all screens should maintain.
+**MAINTAIN CONSISTENCE IN ELEMENTS:** Consistence in defining and repeating the app's elements is extremely important. If one of the buttons says that "subscribe" is in a certain color say yellow, then all buttons of that color should be yellow. This is something that all screens should maintain.
 
 
 
