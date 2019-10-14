@@ -22,7 +22,7 @@ Okay, many want a controlled and healthy lifestyle, but lack the motivation or i
 
 
 
-**2.** **Fitness a****pps give ideas for fitness:**
+**2.** **Fitness apps give ideas for fitness:**
 
 
 
@@ -30,7 +30,7 @@ There are many that are by nature safety freaks. To have a consistent exercise a
 
 
 
-**3.** **Fitness a****pps set up realistic health goals:**
+**3.** **Fitness apps set up realistic health goals:**
 
 
 
