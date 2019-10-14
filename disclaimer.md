@@ -51,6 +51,14 @@ Should we update, amend or make any changes to this document, those changes will
 
 
 
+**Images Disclaimer:**
+
+Photo on this website is make by <a href="https://canva.com" target="_blank" rel='nofollow'>Canva.com </a>app and used all free photos and copyright free.
+
+All photo credit goes to  <a href="https://canva.com" target="_blank" rel='nofollow'>Canva.com </a> .
+
+
+
 
 
 
