@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Gain Followers on Instagram"
 author: developerxd
-categories: [ ui-ux ]
+categories: [ marketing ]
 image: assets/images/posts/How-To-Gain-Followers-on-Instagram/instagram-marketing-tips-for-gain-followers.jpg
 featured: false
 ---
