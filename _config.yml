@@ -5,7 +5,7 @@ description: "Mobile App Development and UI/UX blog,we also share Digital Market
 meta_description: "Mobile App Development and UI/UX blog,we also share Digital Marketing knowledge that help Business."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
+paginate: 8
 baseurl: '/'
 email: 'mr.developerxd@gmail.com'
 google_analytics: ''
